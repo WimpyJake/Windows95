@@ -1,5 +1,5 @@
 # Security Policy
-
+This shouldn't have any viruses, but PLEASE don't download the code. If you do.... just do it a VM (virtual machine)!
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
@@ -13,9 +13,7 @@ currently being supported with security updates.
 | beta    | :x:                |
 
 ## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Vulnerabilties can be reported with the vulnerbility label.
+Go to Issues to report it. You might not often get an update. 
+If it's declined, then report it again, but don't do it too much.
+If it is accepted, you might get a contributer badge.
