@@ -2,9 +2,7 @@
 This shouldn't have any viruses, but PLEASE don't download the code. If you do.... just do it a VM (virtual machine)!
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
+Current versions:
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0.1   | :white_check_mark: |
