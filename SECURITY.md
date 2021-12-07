@@ -1,5 +1,6 @@
 # Security Policy
 This shouldn't have any viruses, but PLEASE don't download the code. If you do.... just do it a VM (virtual machine)!
+Contributers: https://github.com/WimpyJake/Windows95/graphs/contributors
 ## Supported Versions
 
 Current versions:
